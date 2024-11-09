@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "classwork", "classwork.cspr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "types", "types\types.csproj", "{024DF457-618E-437B-9275-159519D4992E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "calculations", "calculations\calculations.csproj", "{C056CF81-FAB8-4BBA-B27C-A108C85ED33D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{024DF457-618E-437B-9275-159519D4992E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{024DF457-618E-437B-9275-159519D4992E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{024DF457-618E-437B-9275-159519D4992E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C056CF81-FAB8-4BBA-B27C-A108C85ED33D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C056CF81-FAB8-4BBA-B27C-A108C85ED33D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C056CF81-FAB8-4BBA-B27C-A108C85ED33D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C056CF81-FAB8-4BBA-B27C-A108C85ED33D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
